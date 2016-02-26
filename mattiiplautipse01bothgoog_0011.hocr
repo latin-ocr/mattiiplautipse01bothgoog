@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mattiiplautipse01bothgoog/mattiiplautipse01bothgoog_0011.png"; bbox 0 0 2776 5076; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 1306 2118 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 1306 2118 2256">
+     <span class='ocr_line' id='line_1_1' title="bbox 564 1306 1871 1397; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 564 1307 717 1394; x_wconf 72' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 797 1306 1235 1397; x_wconf 65' lang='lat' dir='ltr'><strong>Aru]</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1310 1306 1871 1397; x_wconf 70' lang='lat' dir='ltr'>rmum!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 308 2125 2118 2256; baseline 0.002 -52"><span class='ocrx_word' id='word_1_4' title='bbox 308 2125 1285 2256; x_wconf 61' lang='lat' dir='ltr'><strong>DENno‘REcssnsmmj</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1342 2138 1464 2203; x_wconf 79' lang='lat' dir='ltr'><strong>m·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1521 2138 2118 2207; x_wconf 65' lang='lat' dir='ltr'><strong>Exrmcmm·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 570 2390 1994 2563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 570 2390 1994 2563">
+     <span class='ocr_line' id='line_1_3' title="bbox 570 2390 1994 2563; baseline 0.001 -40"><span class='ocrx_word' id='word_1_7' title='bbox 570 2448 916 2523; x_wconf 75' lang='lat' dir='ltr'><strong>mm.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 970 2448 1347 2523; x_wconf 75' lang='lat' dir='ltr'><strong>lmnm.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1406 2449 1874 2563; x_wconf 63' lang='lat' dir='ltr'><strong>nepum.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1983 2390 1994 2415; x_wconf 67' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
